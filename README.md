@@ -13,3 +13,4 @@ Na úvodní hodině se naučíte úplné základy práce s platformou Github a p
 - Po napsání kódu použijte funkci "build" pro přeložení programu a poté "run" pro jeho spuštění.
 - Zdrojový kód tohoto programu (tzn. ne spustitelný soubor ani konfiguraci projektu apod.) nahrajte do tohoto repozitáře.
 - Repozitář neodstraňujte, během dalších cvičení ho využijeme k nahrávání dalších úkolů.
+fjfgjjfg
