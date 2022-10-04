@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664893856 source:/home/rihamiro/Ukol3/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
