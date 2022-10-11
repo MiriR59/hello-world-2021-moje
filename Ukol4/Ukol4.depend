@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665494275 source:/home/rihamiro/Ukol4/main.cpp
+	<iostream>
+	<vector>
+	<random>
+
+1665496632 source:/home/rihamiro/Ukol4/Trideni.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
