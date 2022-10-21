@@ -54,6 +54,9 @@ int main()
     std::cout << "serazeny vektor: " << x << std::endl;
     }
 
+    ofstream outFile("10000.txt");
+    for (const auto &e : serazeno) outFile << e << endl;
+    
     return 0;
 }
 
