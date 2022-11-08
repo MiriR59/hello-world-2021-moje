@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1667917156 source:/home/rihamiro/Ukol 8/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1667919758 source:/home/rihamiro/Ukol 8/src/User.cpp
+	"User.h"
+	<iostream>
+	<cmath>
+
+1667919907 /home/rihamiro/Ukol 8/include/User.h
+	<iostream>
+	<string>
+	<fstream>
+
